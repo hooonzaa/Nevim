@@ -1,0 +1,19 @@
+.uprava{
+display: flex;
+justify-content: center;
+color: blue;
+border-radius: 10px;
+
+}
+.List{
+display: flex;
+justify-content: center;
+color: black;
+flex-direction: column;
+
+}
+
+.List :hover{
+    color: blueviolet;
+
+}
